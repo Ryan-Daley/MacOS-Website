@@ -1,0 +1,25 @@
+{
+  "short_name": "RD's Portfolio'",
+  "name": "Ryan Daley's Portfolio'",
+  "icons": [
+    {
+      "src": "logo/logo513.PNG",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/PNG"
+    },
+    {
+      "src": "logo/logo192.PNG",
+      "type": "image/PNG",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo/logo512.PNG",
+      "type": "image/PNG",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
