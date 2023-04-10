@@ -1,6 +1,6 @@
 # Portfolio Website
 
-#### My portfolio website. Special thanks to Xiohan Zou for open sourcing this repo. [Xiohan's original playground-macos repo is here](https://github.com/Renovamen/playground-macos)
+#### My portfolio website. Special thanks to Xiohan Zou for open sourcing this repo. Xiohan's original playground-macos repo is [HERE](https://github.com/Renovamen/playground-macos)
 
 Powered by [React](https://reactjs.org/) + [React Redux](https://react-redux.js.org/) + [UnoCSS](https://uno.antfu.me/) + [TypeScript](https://www.typescriptlang.org/) + [Vite](https://vitejs.dev/).
 
